@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KolaSiro a retired teacher for young developer
-- 👀 I’m interested in motorcycling, piano and guitar
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in motorcycling, piano, guitar, homerecording and hanging around
+- 🌱 I’m currently learning Kotlin but I still use Java and CSharp
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? Just ring the bell on my house...
 
